@@ -35,6 +35,16 @@ It highlights my expertise, personal projects, and contact details — all wrapp
 | **Vite** | Fast build tool for React |
 | **Netlify** | Deployment and hosting platform |
 
+📜 License
+
+This project is open-source and available under the MIT License.
+
+⭐ Show Your Support
+
+If you like this portfolio, please give it a ⭐ on GitHub
+
+Your feedback and support mean a lot 🙌
+
 ---
 
 
