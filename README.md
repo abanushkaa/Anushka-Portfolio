@@ -1,12 +1,41 @@
-# React + Vite
+# 💼 Anushka Portfolio — theanushkadev.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal **React Portfolio Website**, built to showcase my **skills, projects, and achievements** as a web developer.  
+It features a modern design, smooth animations, and a fully responsive layout — giving recruiters and collaborators a quick overview of my professional journey.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Introduction
 
-## Expanding the ESLint configuration
+**Anushka Portfolio** is a responsive personal website created using **React**.  
+It highlights my expertise, personal projects, and contact details — all wrapped in a sleek, professional UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 **Live Demo:** [theanushkadev.netlify.app](https://theanushkadev.netlify.app/)
+
+---
+
+## ✨ Features
+
+✅ **About Section** – Overview of my skills, background, and interests  
+💡 **Projects Showcase** – Interactive cards highlighting my top projects  
+📱 **Fully Responsive** – Smooth performance on mobile, tablet, and desktop  
+🎨 **Modern UI/UX** – Minimal design with clean typography and transitions  
+📧 **Contact Section** – Integrated contact form and social links  
+⚡ **Deployed via Netlify** – Continuous deployment directly from GitHub  
+
+---
+
+## 🧰 Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **React.js** | Core frontend framework |
+| **JavaScript (ES6+)** | Logic & interactivity |
+| **Tailwind CSS** | Styling and responsiveness |
+| **Vite** | Fast build tool for React |
+| **Netlify** | Deployment and hosting platform |
+
+---
+
+
+
